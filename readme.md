@@ -1,4 +1,4 @@
-
+```
     $$$$$$$\   $$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\  $$\   $$\ $$\     $$\ $$$$$$$$\ $$\   $$\
     $$  __$$\ $$  __$$\ $$  __$$\ $$$\  $$ |$$  __$$\ $$ |  $$ |\$$\   $$  |$$  _____|$$$\  $$ |
     $$ |  $$ |$$ /  $$ |$$ /  $$ |$$$$\ $$ |$$ /  \__|$$ |  $$ | \$$\ $$  / $$ |      $$$$\ $$ |
@@ -15,3 +15,10 @@
     baonguyenyam.github.io
     baonguyenyam.blogspot.com
     Demo Web-App: http://baonguyenyam.herokuapp.com/
+```
+# Cài đặt
+> npm i 
+> bower update 
+# Cấu hình
+- Xem file `config.json`
+- Xem các files trong thư mục `tasks`
