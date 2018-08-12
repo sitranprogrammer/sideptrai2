@@ -14,8 +14,5 @@ module.exports = function (gulp, $, browserSync) {
 				pretty: true
 			}))
 			.pipe(gulp.dest('./dist'))
-			.pipe(browserSync.reload({
-				stream: true
-			}));
 	});
 };

@@ -24,6 +24,10 @@ và
 
 > bower update 
 
+# Chạy dự án 
+
+> npm start
+
 # Cấu hình
 
 - Xem file `config.json`
