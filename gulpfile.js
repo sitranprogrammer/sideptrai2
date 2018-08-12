@@ -14,8 +14,10 @@ taskList.forEach(function (taskFile) {
 // Lệnh mặc định của Gulp
 gulp.task('default', function (callback) {
 	runSequence(
+		'clean',
 		'copy-img',
 		'copy-fonts',
+		'copy-favicon',
 		'concat-css',
 		'concat-js',
 		'tao-sass',

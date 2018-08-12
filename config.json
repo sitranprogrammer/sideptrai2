@@ -22,6 +22,7 @@
 			"verf_bing": "F7679394C660249FBA58732D6100A65A",
 			"verf_yandex": "bc82adfacdd74cbf"
 		},
+		"favicondist": "./favicon/",
 		"website": "baonguyenyam.github.io",
 		"title": "Gulp App by FullStack Vietnam",
 		"author": {
