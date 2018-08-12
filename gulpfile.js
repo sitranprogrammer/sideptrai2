@@ -3,6 +3,7 @@
 var gulp = require('gulp');
 var plugins = require('gulp-load-plugins')({ lazy: true });
 var browserSync = require('browser-sync').create();
+var runSequence = require('run-sequence');
 var taskPath = './tasks/';
 var taskList = require('fs').readdirSync(taskPath);
 // Load tất cả các task
@@ -11,16 +12,17 @@ taskList.forEach(function (taskFile) {
 });
 
 // Lệnh mặc định của Gulp
-gulp.task('default', function () {
-  gulp.start([
-    'copy-img',
-    'copy-fonts',
-    'concat-css',
-    'concat-js',
-    'tao-sass',
-    'tao-js',
-    'tao-html',
-    'watch',
-    'browser-sync'
-  ]);
+gulp.task('default', function (callback) {
+	runSequence(
+		'copy-img',
+		'copy-fonts',
+		'concat-css',
+		'concat-js',
+		'tao-sass',
+		'tao-js',
+		'tao-html',
+		'watch',
+		'browser-sync',
+		callback
+  );
 });
