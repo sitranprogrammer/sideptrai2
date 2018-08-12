@@ -1,7 +1,7 @@
 {
 	"name": "fullstackvietnam",
 	"version": "1.0.0",
-	"description": "Day la source du an",
+	"description": "Fullstack Vietnam lò đào tạo lập trình viên, designer chuyên nghiệp tại Sài Gòn. Chúng tôi là các chuyên gia uy tín trong lĩnh vực lập trình ứng dụng, thiết kế và sáng tạo. Gọi: 0 96 96 89 89 3",
 	"main": "index.js",
 	"scripts": {
 		"start": "gulp",
@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/fullstackvietnam/fs-03-web-app/issues"
 	},
-	"homepage": "https://github.com/fullstackvietnam/fs-03-web-app#readme",
+	"homepage": "https://fullstackvietnam.com",
 	"dependencies": {
 		"babel-core": "^6.26.3",
 		"babel-preset-env": "^1.7.0",

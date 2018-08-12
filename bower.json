@@ -1,12 +1,12 @@
 {
   "name": "fullstackvietnam",
-  "description": "Day la source du an",
+  "description": "Fullstack Vietnam lò đào tạo lập trình viên, designer chuyên nghiệp tại Sài Gòn. Gọi: 0 96 96 89 89 3",
   "main": "index.js",
   "authors": [
     "FullStack VietNam"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/fullstackvietnam/fs-03-web-app",
+  "homepage": "https://fullstackvietnam.com",
   "ignore": [
     "**/.*",
     "node_modules",
