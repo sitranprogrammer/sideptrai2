@@ -12,8 +12,7 @@
     Tel: 0.96.96.89.89.3
     Email: baonguyenyam@gmail.com
     URL: fb.com/pham.nguyen.bao.nguyen,
-    baonguyenyam.github.io
-    baonguyenyam.blogspot.com
+    baonguyenyam.github.io/cv
     FullStack Vietnam: https://fullstackvietnam.com/
 ```
 # Cài đặt
