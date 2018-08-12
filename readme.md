@@ -18,6 +18,7 @@
 ```
 # Cài đặt
 > npm i 
+và 
 > bower update 
 # Cấu hình
 - Xem file `config.json`
