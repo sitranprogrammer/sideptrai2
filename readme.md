@@ -17,9 +17,14 @@
     Demo Web-App: http://baonguyenyam.herokuapp.com/
 ```
 # Cài đặt
+
 > npm i 
+
 và 
+
 > bower update 
+
 # Cấu hình
+
 - Xem file `config.json`
 - Xem các files trong thư mục `tasks`
