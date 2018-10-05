@@ -6323,6 +6323,42 @@ html, body {
     width: auto; } }
 
 body {
-  background: #dfdfdf; }
+  background: #a03030; }
+  body .home .about {
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem; }
+  body .home .hihi ul {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 2rem;
+    height: 550px; }
+    body .home .hihi ul li {
+      padding: 2rem 1rem; }
+      body .home .hihi ul li a {
+        color: #8c1ea7;
+        border-bottom: 2px solid red; }
+        body .home .hihi ul li a:hover {
+          text-decoration: none;
+          background: yellow; }
+  body .home .hoho {
+    width: 1140px;
+    height: 100px;
+    background: #8c1ea7;
+    padding: 0rem 1rem; }
+    body .home .hoho ul {
+      display: flex;
+      list-style-type: none;
+      font-size: 2rem;
+      padding: 2rem 1rem; }
+      body .home .hoho ul li a {
+        padding: 0rem 1rem;
+        border-right: 2px solid red; }
+        body .home .hoho ul li a:hover {
+          text-decoration: none;
+          background: yellow; }
+  body .home .about {
+    background: #000000;
+    color: white; }
 
 /*# sourceMappingURL=main.css.map */
